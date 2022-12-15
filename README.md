@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a Linux machine (if you don't, minor adjustments in the code will be necessary).
 * You are familiar with the data retrieved from GISAID.
 
-## Installing <project_name>
+## Installing GISAIDutilities
 
 No installation is necessary. Scripts are written in bash and python and can be directly run.
 
